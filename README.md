@@ -1,4 +1,4 @@
-Roleta Russa
+# Roleta Russa
 
 Um simples e divertido jogo de **roleta russa** feito em **Python**, jogado diretamente no terminal.  
 Você e o inimigo se revezam tentando sobreviver a cada rodada!
